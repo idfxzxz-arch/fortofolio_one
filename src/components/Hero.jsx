@@ -111,7 +111,7 @@ export default function Hero() {
           <div className="absolute inset-0 bg-blue-500/20 blur-[80px] rounded-full"></div>
 
           <img
-            src="/idk.webp"
+            src="/hero.png"
             alt="me"
             className="relative w-[280px] md:w-[360px] animate-float drop-shadow-[0_0_40px_rgba(59,130,246,.6)]"
           />
